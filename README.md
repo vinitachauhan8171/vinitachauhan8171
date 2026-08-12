@@ -1,4 +1,9 @@
-## Hi there 👋
+<div align="center">
+  
+## Hello I am Vinita Chauhan  👋
+
+### **Final year Bca student 
+
 
 <!--
 **vinitachauhan8171/vinitachauhan8171** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
