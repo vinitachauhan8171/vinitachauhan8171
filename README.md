@@ -1,6 +1,6 @@
 <div align="center">
   
-## Hello I am Vinita Chauhan  👋
+## Hello, I' am Vinita Chauhan  👋
 
 ### Final year Bca student 
 
