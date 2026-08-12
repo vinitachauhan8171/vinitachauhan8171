@@ -2,7 +2,7 @@
   
 ## Hello I am Vinita Chauhan  👋
 
-### **Final year Bca student 
+### Final year Bca student 
 
 
 <!--
